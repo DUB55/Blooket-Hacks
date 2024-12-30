@@ -27,4 +27,3 @@ Blooket Hacks, including every hack ever made.
 2.    Copy the content of the script
 3.    Paste it in console
 4.    Enjoy! And by doing this you acknowledge and agree to adhere to the [Terms of Use](TERMS.md)
-
